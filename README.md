@@ -1,2 +1,2 @@
-# AlgoDraft_Exam_1_semester
+# Алгоритмы для экзамена в 1 семестре
 Examination blank
